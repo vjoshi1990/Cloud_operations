@@ -5,8 +5,8 @@ This will be useful for day to day activities and infrastructure automation.
 
 Index : 
 
-1 Terraform Setup on Local Machine.
-2 Terraform Script for VPC_Designing.
+1 Terraform Setup on Local Machine.\n
+2 Terraform Script for VPC_Designing.\n
 3 Terraform Scripts for Creating Okta Auth Apllication.
 4 
 
